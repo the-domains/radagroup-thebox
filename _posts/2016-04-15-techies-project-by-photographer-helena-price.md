@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T01:13:13.059Z'
+datePublished: '2016-05-29T01:15:23.787Z'
 sourcePath: _posts/2016-04-15-techies-project-by-photographer-helena-price.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/techies-project-silicon-valley-interviews'
@@ -17,7 +17,7 @@ keywords:
   - diverse
 related: []
 author: []
-dateModified: '2016-05-29T01:13:10.825Z'
+dateModified: '2016-05-29T01:15:23.282Z'
 title: Techies Project by Photographer Helena Price
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: "The two words \"Silicon Valley\" immediately stir up stereotypes, stigma and maybe an HBO show. The name has become a cultural reflex, and that's what photographer Helena Price wants to change with her ambitious, large-scale portrait and interview series. Techies Project, launched today, is a collection of 100 in-depth interviews that breaks this idea of the \"sameness\" plaguing the area."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
