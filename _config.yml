@@ -1,14 +1,14 @@
-layout_spectrum: 0.9104777115862817
-typography_spectrum: 0.9565835930407047
+layout_spectrum: 0.7993449063505977
+typography_spectrum: 0.011620273580774665
 color:
-  brandStrength: 0.27044044621288776
-  lightness: 0.14345256565138698
-  saturation: 0.4396129762753844
-  rhythmicContrast: 0.1304764519445598
+  brandStrength: 0.5831723511219025
+  lightness: 0.38521643774583936
+  saturation: 0.4630239186808467
+  rhythmicContrast: 0.2248731730505824
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: 'Radagroup: TheBox'
