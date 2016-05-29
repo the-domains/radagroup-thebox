@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T01:13:13.061Z'
+datePublished: '2016-05-29T01:15:23.856Z'
 sourcePath: _posts/2016-04-15-headspace-app-launches-personal-meditative-pods.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/headspace-app-meditative-pods'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-29T01:13:11.071Z'
+dateModified: '2016-05-29T01:15:23.190Z'
 title: Headspace App Launches Personal Meditative Pods
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
 description: "More than five million people globally have used guided meditation service Headspace. There's an invaluable ease to using their service (especially the free app) and it has opened the doors of meditation to many. Now, the acclaimed team behind the app have produced a different sort of tool for meditation: a private nature-inspired pod made in collaboration with architect duo Oyler Wu."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
