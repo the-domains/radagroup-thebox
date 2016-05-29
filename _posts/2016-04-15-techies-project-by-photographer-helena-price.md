@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T01:13:11.527Z'
+datePublished: '2016-05-29T01:13:13.059Z'
 sourcePath: _posts/2016-04-15-techies-project-by-photographer-helena-price.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/techies-project-silicon-valley-interviews'
@@ -17,7 +17,7 @@ keywords:
   - diverse
 related: []
 author: []
-dateModified: '2016-05-29T01:13:09.119Z'
+dateModified: '2016-05-29T01:13:10.825Z'
 title: Techies Project by Photographer Helena Price
 app_links: []
 publisher:
