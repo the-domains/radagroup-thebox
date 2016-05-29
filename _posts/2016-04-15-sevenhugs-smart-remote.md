@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-29T01:13:13.058Z'
+datePublished: '2016-05-29T01:15:23.867Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
@@ -17,7 +17,7 @@ keywords:
   - pointing
 related: []
 author: []
-dateModified: '2016-05-29T01:13:11.500Z'
+dateModified: '2016-05-29T01:15:23.133Z'
 title: "Sevenhugs' Smart Remote"
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: "Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first \"contextually aware\" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
